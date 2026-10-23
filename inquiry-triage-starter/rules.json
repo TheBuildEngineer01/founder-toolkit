@@ -1,0 +1,20 @@
+{
+  "keywords": {
+    "order": ["order", "need", "want", "buy", "purchase", "book", "reserve", "deliver", "delivery", "cod", "cash on delivery", "send me", "i'll take", "lena hai", "chahiye", "bhej do"],
+    "question": ["price", "how much", "available", "stock", "size", "colour", "color", "timing", "timings", "open", "hours", "kitna", "kitne", "kya", "details", "info"],
+    "complaint": ["refund", "return", "broken", "damaged", "late", "not received", "wrong", "complaint", "bad", "worst", "kharab", "nahi mila", "cancel"],
+    "urgent": ["urgent", "asap", "today", "right now", "aaj", "jaldi"]
+  },
+  "cities": ["Lahore", "Karachi", "Islamabad", "Rawalpindi", "Faisalabad", "Multan", "Peshawar", "Dubai", "London"],
+  "replies": {
+    "order": "Thanks for your order request! We've received it and will confirm shortly.",
+    "question": "Hi! Thanks for reaching out. Here are our latest prices and availability: [add link or details].",
+    "complaint": "We're really sorry about this. A team member will personally look into it and get back to you as soon as possible.",
+    "other": "Hi! Thanks for your message. How can we help you today?"
+  },
+  "ask_for": {
+    "order": ["quantity", "city"],
+    "complaint": []
+  },
+  "follow_up_question": "Could you share your {fields}?"
+}

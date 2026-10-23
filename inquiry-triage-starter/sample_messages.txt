@@ -1,0 +1,8 @@
+# One message per line. Lines starting with # are ignored.
+Hi! Is this still available? How much?
+I want to order 2 pcs, delivery to Lahore please
+My parcel arrived damaged, I want a refund
+What are your timings on Sunday?
+Need 5 units urgent, can you deliver today in Karachi?
+Assalam o alaikum, ye kitne ka hai?
+Hello
