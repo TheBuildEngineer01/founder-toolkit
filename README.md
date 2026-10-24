@@ -12,6 +12,7 @@ Maintained by **Bilal | The Build Engineer**, an individual software developer i
 
 | Guide | What it helps with | Type |
 |-------|--------------------|------|
+| [Automation Checklist](./automation-checklist/) | 5 tasks businesses still do by hand, plus a scorecard to find what to automate first | Checklist |
 | [Idea Validation](./idea-validation/) | 4 cheaper ways to test an app idea before building, plus a "time to build?" scorecard | Checklist |
 | [App Quote Scope Checklist](./app-quote-scope-checklist/) | Why app quotes differ 10x, and a template to get comparable quotes | Checklist + template |
 | [Inquiry Triage Starter](./inquiry-triage-starter/) | A small Python starting point for an automatic first reply to customer inquiries | Starter code |
