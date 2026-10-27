@@ -12,6 +12,7 @@ Maintained by **Bilal | The Build Engineer**, an individual software developer i
 
 | Guide | What it helps with | Type |
 |-------|--------------------|------|
+| [Online Booking Checklist](./online-booking-checklist/) | What phone-only booking costs salons, clinics, gyms & tutors, and what a booking system needs | Checklist |
 | [Shop System Checklist](./shop-system-checklist/) | 5 problems a simple shop system fixes (stock, udhaar, sales, profit) and what to prepare | Checklist |
 | [Outgrowing WhatsApp](./outgrowing-whatsapp/) | 5 signs your business has outgrown running on chats, and what a simple system needs | Checklist |
 | [Automation Checklist](./automation-checklist/) | 5 tasks businesses still do by hand, plus a scorecard to find what to automate first | Checklist |
