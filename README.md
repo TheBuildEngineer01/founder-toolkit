@@ -12,6 +12,7 @@ Maintained by **Bilal | The Build Engineer**, an individual software developer i
 
 | Guide | What it helps with | Type |
 |-------|--------------------|------|
+| [After-Hours AI Replies](./after-hours-ai-replies/) | What to automate so customers get answers at 11 PM, plus reply templates and safety rules | Checklist + templates |
 | [COD Returns Checklist](./cod-returns-checklist/) | Cut cash-on-delivery returns: cost calculator, fixes, and WhatsApp confirmation templates | Checklist + templates |
 | [Online Booking Checklist](./online-booking-checklist/) | What phone-only booking costs salons, clinics, gyms & tutors, and what a booking system needs | Checklist |
 | [Shop System Checklist](./shop-system-checklist/) | 5 problems a simple shop system fixes (stock, udhaar, sales, profit) and what to prepare | Checklist |
