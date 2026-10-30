@@ -20,6 +20,7 @@ Maintained by **Bilal | The Build Engineer**, an individual software developer i
 | [Automation Checklist](./automation-checklist/) | 5 tasks businesses still do by hand, plus a scorecard to find what to automate first | Checklist |
 | [Idea Validation](./idea-validation/) | 4 cheaper ways to test an app idea before building, plus a "time to build?" scorecard | Checklist |
 | [App Quote Scope Checklist](./app-quote-scope-checklist/) | Why app quotes differ 10x, and a template to get comparable quotes | Checklist + template |
+| [Customer Journey Map](./customer-journey-map/) | Map every step from first message to delivery, find where customers drop off, and plan the "direct flight" | Worksheet |
 | [Reply Speed Scorecard](./reply-speed-scorecard/) | Log one week of customer messages, see how reply speed affects sales, and pick what to automate first | Worksheet |
 | [The 2 AM Test](./two-am-test/) | A 4-question self-check: can customers buy from you at 2 AM without you? Plus what to fix first | Self-check + checklist |
 | [Hidden Hours Audit](./hidden-hours-audit/) | A one-week time audit to find hidden admin hours, score tasks, and pick what to automate first | Worksheet |
