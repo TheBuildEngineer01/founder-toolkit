@@ -20,6 +20,9 @@ Maintained by **Bilal | The Build Engineer**, an individual software developer i
 | [Automation Checklist](./automation-checklist/) | 5 tasks businesses still do by hand, plus a scorecard to find what to automate first | Checklist |
 | [Idea Validation](./idea-validation/) | 4 cheaper ways to test an app idea before building, plus a "time to build?" scorecard | Checklist |
 | [App Quote Scope Checklist](./app-quote-scope-checklist/) | Why app quotes differ 10x, and a template to get comparable quotes | Checklist + template |
+| [The Customer Reply Recipe](./customer-reply-recipe/) | 5 reply habits that lose customers, the fix for each, and ready-to-use replies | Checklist + templates |
+| [Abandoned Cart Recovery](./abandoned-cart-recovery/) | Find where buyers stop at checkout, fix it, and win them back with one polite follow-up | Checklist + templates |
+| [WhatsApp Agent Reply Templates](./whatsapp-agent-reply-templates/) | Ready-to-adapt replies for price, stock, delivery, "last price?", orders and hand-off, to brief an AI agent | Templates |
 | [AI Agent Job Description](./ai-agent-job-description/) | A fill-in template: duties, rules, hand-off points and testing plan before you "hire" an AI agent | Template |
 | [Customer Journey Map](./customer-journey-map/) | Map every step from first message to delivery, find where customers drop off, and plan the "direct flight" | Worksheet |
 | [Reply Speed Scorecard](./reply-speed-scorecard/) | Log one week of customer messages, see how reply speed affects sales, and pick what to automate first | Worksheet |
