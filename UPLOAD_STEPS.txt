@@ -2,11 +2,11 @@ How to add this guide to founder-toolkit (GitHub website, no code needed)
 
 1. Open github.com/TheBuildEngineer01/founder-toolkit
 2. Click "Add file" > "Upload files".
-3. Drag the whole "night-shift-whatsapp-checklist" folder in.
-4. Commit message: "Add night-shift WhatsApp checklist". Click "Commit changes".
+3. Drag the whole "cod-confirmation-flow" folder in.
+4. Commit message: "Add COD order confirmation flow guide". Click "Commit changes".
 5. Open the root README.md, click the pencil icon, and add this row to the guides table:
 
-| Night-Shift WhatsApp Checklist | Online sellers losing late-night messages | [Open](./night-shift-whatsapp-checklist/) |
+| COD Order Confirmation Flow | Online sellers losing money on COD returns | [Open](./cod-confirmation-flow/) |
 
    (Match your table's existing column order if it differs.)
 6. Check the social handles line still says X: @BuildEngineer01. Commit.
